@@ -1,0 +1,13 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run game",
+            "command": "opera",    
+            "windows": {
+                "command": "C:\\Users\\Илья\\AppData\\Local\\Programs\\Opera\\launcher.exe"
+            },
+            "args": ["${workspaceFolder}\\index.html"]
+        }
+    ]
+}
