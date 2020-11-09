@@ -1,6 +1,7 @@
 class Renderer {
 
-    constructor() {
+    constructor()
+    {
 
         this.canvas_ = undefined;
 
